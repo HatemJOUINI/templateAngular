@@ -1,0 +1,2 @@
+# templateAngular
+Angular Project Template 
